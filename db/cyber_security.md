@@ -100,7 +100,7 @@
 - [CERT Italia](https://www.certnazionale.it/content/uploads/2015/01/minacce_regole_di_comportamento.pdf)
 - [Una Breve Introduzione](https://www.disi.unige.it/person/LagorioG/SicurezzaInformatica.pdf)
 - [La Sicurezza Informatica](http://security.polito.it/~lioy/01jem/TIGR_introsec_3x.pdf)
-
+- [Cyber Security in Italia](https://blog.cyberoo.com/sicurezza-informatica-in-italia-la-ricerca-dellosservatorio-information-security-privacy)
 ---------------------------------------
 
 ![DE](https://i.imgur.com/RSPYBQi.png)
